@@ -1,0 +1,41 @@
+#firstPage{
+    margin:50px;
+    padding: 50px 30px;
+    width:540px;
+    height:350px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}
+#secondPage{
+    display: none;
+    margin:50px;
+    padding: 50px 30px;
+    width:540px;
+    height:350px;
+    font-size: 40px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
+}
+
+#changeWord{
+    display: none;
+}
+.buttonOne{
+    background-color: #4CAF50;
+    border-radius: 20px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+.buttonTwo{
+    background-color: coral;
+    border: 2px solid;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 20px;
+}
